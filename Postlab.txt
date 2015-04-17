@@ -1,0 +1,6 @@
+1. 94.1% statement coverage and 58.3% term coverage. 
+2. 71.4%statement coverage and 100% term coverage
+3. GetDiscount() does not have 100% statement coverage.
+4. Test the method and ensure that when testing that there are available discounts so that the loop is actually ran multiple times.
+5.
+6.
